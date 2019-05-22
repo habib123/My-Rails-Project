@@ -4,6 +4,7 @@ require 'rails/test_help'
 
 
 
+itets
 class ActiveSupport::TestCase
   # Setup all fixtures in test/fixtures/*.yml for all tests in alphabetical order.
   fixtures :all
